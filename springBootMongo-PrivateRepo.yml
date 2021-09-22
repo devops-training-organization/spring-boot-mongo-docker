@@ -12,8 +12,6 @@ spec:
       labels:
         name: springboot
     spec:
-      imagePullSecrets:
-      - name: dockerreposecret
       containers:
       - image: dhruvsachdev/spring-boot-mongo
         name: springboot
