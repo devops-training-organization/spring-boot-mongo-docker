@@ -1,5 +1,4 @@
 ---
-# Updating for git fetch and pull
 apiVersion: v1
 kind: ReplicationController
 metadata:
